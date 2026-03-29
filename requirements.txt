@@ -1,4 +1,4 @@
-gradio==4.44.0
+streamlit
 tensorflow==2.15.0
 scikit-learn
 joblib
